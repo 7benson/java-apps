@@ -42,3 +42,7 @@
         - With the details of a course in the request body as json, the course gets updated to the databse
       - Delete  Call : "localhost:9090/courses/{courseId}"
         - Deletes the course with that particular courseId
+
+# [employee-crud-app](./employee-crud-app/)
+  - Spring Boot CRUD App + Thymeleaf templates
+  - CRUD functionalities to edit the employees with frontend
